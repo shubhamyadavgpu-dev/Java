@@ -9,4 +9,11 @@ public class Character_Pattern{
         System.out.println();
         }
     }
+
 }
+
+// output
+A
+B C
+D E F 
+G H I J    
